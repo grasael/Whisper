@@ -1,2 +1,1 @@
-langchain-community 
-langchain-core
+langchain
